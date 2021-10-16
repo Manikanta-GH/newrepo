@@ -6,8 +6,9 @@ namespace ConsoleApp2demo
     {
         static void Main(string[] args)
         {
+            int i;
             Console.WriteLine("Hello World for github");
-            console.writeline("hello world for vs");
+            Console.WriteLine("hello world for vs");
             Console.ReadLine();
         }
     }
